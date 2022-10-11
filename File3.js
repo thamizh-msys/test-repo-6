@@ -1,2 +1,1 @@
-
-var A
+const newVar = 'myVar';
